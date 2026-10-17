@@ -33,7 +33,7 @@ class Carro {
 }
 
 void main(){
-  Carro carro1 = Carro("Honda Fit", 120);
+  Carro carro1 = Carro("Fusca", 120);
 
   carro1.acelerar(50);
   carro1.acelerar(80); 
